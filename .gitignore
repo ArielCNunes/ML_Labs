@@ -10,6 +10,7 @@ env/
 *.gif
 *.mp4
 *.mov
+*.pdf
 
 # Python cache
 __pycache__/
