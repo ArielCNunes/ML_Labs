@@ -1,0 +1,13 @@
+# Core data/ML libraries used across lab notebooks
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+ipython
+
+# Notebook runtime for Codespaces
+jupyterlab
+ipykernel
+notebook
